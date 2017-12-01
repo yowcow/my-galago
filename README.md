@@ -12,5 +12,5 @@ Do:
 
 ```
 make
-make roles/galago
+sudo make roles/galago
 ```
